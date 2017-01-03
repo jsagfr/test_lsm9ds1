@@ -1,0 +1,6 @@
+[submodule "lsm9ds1_cpp"]
+	path = lsm9ds1_cpp
+	url = https://jsagfr@github.com/jsagfr/lsm9ds1_cpp.git
+[submodule "i2cpp"]
+	path = i2cpp
+	url = https://jsagfr@github.com/jsagfr/i2cpp.git
